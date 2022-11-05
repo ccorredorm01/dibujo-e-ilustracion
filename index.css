@@ -1,42 +1,18 @@
 /*dibujo.css*/
-html {
-    background-color:lavenderblush;
-}
+html {background-color:lavenderblush;}
 
-body { 
-    margin: 5em 
-    
-}
+body {margin: 5em}
 
-h1 {
-    text-align:center;
-}
+h1 {text-align:center;}
 
-h2 {
-    color:darkslateblue;
-}
+h2 {color:darkslateblue;}
 
-h3 {
-    color:dodgerblue;
-}
+h3 {color:dodgerblue;}
 
-p {
-    text-align: justify; 
-    font-family: sans-serif; 
-    font-size: 16px;
-}
+p {text-align: justify; font-family: sans-serif; font-size: 16px;}
 
-div {
-    text-align: center;
-}
+div {text-align: center;}
 
-mark {
-    background-color:aqua;
-}
+mark {background-color:aqua;}
 
-.pintura {
-    background-color:lightcoral; 
-    color:indigo; 
-    margin: 20px; 
-    padding: 20px;
-}
+.pintura {background-color:lightcoral; color:indigo; margin: 20px; padding: 20px;}
